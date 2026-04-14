@@ -1,0 +1,149 @@
+MONTANA
+DPHHS
+SNAP 001
+Gross and Net Income: Standards/Thrifty Food Plan
+Supersedes: SNAP 001 (10/01/2023)
+References: 7 CFR 273.9(a)(1)(i) and (a)(2)(i), 7 CFR 273.10(e)(4)(ii)
+Overview: SNAP participation is limited to households with income not exceeding the
+following gross and net monthly income standards. October 1, 2025, to September 30, 2026.
+GROSS MONTHLY INCOME STANDARDS FOR EXPANDED
+CATEGORICALLY ELIGIBLE (ECE) HOUSEHOLDS
+(200% of Poverty Level)
+Gross Monthly Income
+Household Size
+1
+$ 2610
+2
+$ 3526
+3
+$ 4442
+4
+$ 5360
+5
+$ 6276
+6
+$ 7192
+7
+$ 8110
+8
+$ 9026
+Each Additional Member
++ $ 918
+Household Size
+1
+2
+3
+4
+5
+GROSS MONTHLY INCOME STANDARDS
+(130% of Poverty Level)
+Gross Monthly Income
+$ 1696
+$ 2292
+$ 2888
+$ 3483
+$ 4079
+Household Size
+6
+7
+8
+Each Additional Member
+Gross Monthly Income
+$ 4675
+$ 5271
+$ 5867
++ 596
+GROSS MONTHLY INCOME STANDARDS FOR HOUSEHOLDS
+WHERE ELDERLY/DISABLED ARE A SEPARATE HOUSEHOLD
+(165% of Poverty Level)
+Gross Monthly Income
+Household Size
+1
+$ 2152
+2
+$ 2909
+3
+$ 3665
+4
+$ 4421
+5
+$ 5177
+6
+$ 5934
+7
+$ 6690
+8
+$ 7446
+Each Additional Member
++ $ 757
+GROSS MONTHLY INCOME TEST EXCEPTIONS:
+The gross monthly income test does not apply to households that:
+1. Are categorically eligible because all members are receiving or are authorized to receive
+TANF cash assistance, TANF Post Employment, Tribal TANF, or Supplemental Security
+Income (SSI) benefits.
+2. Include a member who is disabled or age 60 or older. An individual is considered elderly
+the month he/she turns 60 years old. NOTE: Households are subject to the 130% GMI
+test when an elderly or disabled member is disqualified for any of the following reasons:
+a. intentional program violation;
+b. fleeing felon or probation/parole violation;
+c. convicted of receiving duplicate benefits;
+d. convicted of trading benefits for weapons, ammunition, explosives, or drugs;
+e. convicted of buying or selling benefits of $500 or more, or
+f. convicted after 08/22/96 of a federal or state felony for possession, use or
+distribution of illegal drugs, and not complying with conditions of supervision
+3. Include a member who is disabled or age 60 or older and do not pass the ECE gross income
+test.
+Households with income less than the gross monthly income standard (GMI) have their net
+income evaluated according to the net monthly income standard (NMI).
+NET MONTHLY INCOME STANDARDS
+(100% of Poverty Level)
+Net Monthly Income
+Household Size
+1
+$ 1305
+2
+$ 1763
+3
+$ 2221
+4
+$ 2680
+5
+$ 3138
+6
+$ 3596
+7
+$ 4055
+8
+$ 4513
+Each Additional Member
++ $ 459
+NET MONTHLY INCOME EXCEPTIONS:
+Households are exempt from the net monthly income test if the household is CE/ECE.
+THRIFTY FOOD PLAN
+The monthly allotment is equal to the Thrifty Food Plan for the household's size reduced by 30
+percent of the net monthly income. The Thrifty Food Plan is based on 100% of the federal
+poverty level. Minimum SNAP Allotment is $ 24.
+Maximum SNAP Allotments:
+Household Size
+1
+2
+3
+4
+5
+6
+7
+8
+Each Additional Member
+Thrifty Food Plan
+$ 298
+$ 546
+$ 785
+$ 994
+$ 1183
+$ 1421
+$ 1571
+$ 1789
++ 218
+Maximum Shelter Deduction- $ 744.00
+Homeless Shelter Deduction- $ 198.99
+Effective Date: October 1, 2025

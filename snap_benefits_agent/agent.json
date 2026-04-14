@@ -1,0 +1,53 @@
+{
+  "name": "Montana SNAP Benefits Agent",
+  "description": "Helps Montana residents understand SNAP (Supplemental Nutrition Assistance Program) benefits, check eligibility, look up income limits and policy details, and submit benefit applications.",
+  "url": "https://snap-benefits-agent-290945876474.us-central1.run.app/a2a/snap_benefits_agent",
+  "version": "1.0.0",
+  "capabilities": {
+    "streaming": false
+  },
+  "defaultInputModes": ["text/plain"],
+  "defaultOutputModes": ["text/plain"],
+  "skills": [
+    {
+      "id": "snap-search",
+      "name": "SNAP Benefits Search",
+      "description": "Search the SNAP benefits knowledge base for eligibility, income limits, how to apply, EBT cards, and more.",
+      "tags": ["search", "snap", "eligibility"],
+      "examples": [
+        "Am I eligible for SNAP benefits?",
+        "How do I apply for SNAP in Montana?"
+      ]
+    },
+    {
+      "id": "policy-lookup",
+      "name": "Policy Details Lookup",
+      "description": "Get official SNAP policy manual text with exact income thresholds and benefit amounts by household size.",
+      "tags": ["policy", "income-limits", "benefits"],
+      "examples": [
+        "What are the income limits for a family of 4?",
+        "How much SNAP benefit would I get?"
+      ]
+    },
+    {
+      "id": "submit-application",
+      "name": "Submit SNAP Application",
+      "description": "Submit a new SNAP benefits application with applicant details to BigQuery.",
+      "tags": ["application", "submit", "apply"],
+      "examples": [
+        "I want to submit a SNAP application",
+        "Help me apply for benefits"
+      ]
+    },
+    {
+      "id": "list-applications",
+      "name": "List Applications",
+      "description": "Retrieve all submitted SNAP benefit applications.",
+      "tags": ["applications", "list", "status"],
+      "examples": [
+        "Show me all submitted applications",
+        "List all SNAP applications"
+      ]
+    }
+  ]
+}

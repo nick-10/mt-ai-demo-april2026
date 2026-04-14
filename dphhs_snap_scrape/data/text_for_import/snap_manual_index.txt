@@ -1,0 +1,636 @@
+Title: SNAP Policy Manual
+Source: Montana Department of Public Health and Human Services
+URL: https://dphhs.mt.gov/HCSD/snapmanual
+Category: Montana SNAP Benefits
+
+---
+
+Supplemental Nutrition Assistance Program (SNAP) Policy Manual
+
+Printing the manual material found at this website for long-term use is not advisable. Department Policy material is updated periodically and it is the responsibility of the users to check and make sure that the policy they are researching or applying has the correct effective date for their circumstances.
+
+State Website Disclaimer
+.
+
+If you experience any difficulty opening a policy from this page,
+please email
+
+HHS Technology Services Center
+.
+
+TABLE OF CONTENTS
+
+SECTION NUMBER
+
+SUBSECTION # - TITLE/ CONTENT
+
+DATE
+ISSUED/REVISED
+
+0-1
+
+Table of Contents
+
+04/01/2026
+
+0-2
+
+Alpha Subject Index
+
+05/15/25
+
+0-3
+
+Introduction
+
+07/14/22
+
+0-4
+
+Glossary
+
+05/13/25
+
+001
+
+Table of Standards: GMI & NMI Thrifty Food Plan
+
+10/01/25
+
+100
+
+Application Processing
+
+101-1
+
+Confidentiality
+
+12/15/23
+
+102-1
+
+Civil Rights
+
+03/07/23
+
+102-2
+
+General Complaints
+
+03/06/24
+
+103-1
+
+Application Filing/Interview Process
+
+02/19/25
+
+103-3
+
+Household Rights and Responsibilities
+
+05/29/24
+
+103-5
+
+Verifications
+
+06/15/23
+
+103-6
+
+Voter Registration
+
+05/06/24
+
+103-7
+
+Authorized Representative
+
+05/24/24
+
+104-1
+
+Application Approval or Denial
+
+08/24/23
+
+104-4
+
+Re-application/Revert to Open
+
+07/20/22
+
+105-1
+
+Expedited Services
+
+06/06/23
+
+105-2
+
+Destitute Migrant and Seasonal Farm Workers
+
+07/20/22
+
+200
+
+Household Composition
+
+201-1
+
+Household Composition
+
+05/08/21
+
+201-2
+
+Parental Control
+
+04/01/10
+
+201-4
+
+Boarders
+
+07/20/22
+
+201-5
+
+Students
+
+07/20/22
+
+201-6
+
+Group Homes
+
+07/20/22
+
+201-7
+
+Residents-Drug/Alcohol Treatment/Rehabilitation Programs
+
+07/21/23
+
+201-8
+
+Shelters for Battered Adults and Children
+
+07/20/22
+
+201-9
+
+Dual Participation -Commodities/Food Stamp Program
+
+05/23/25
+
+201-10
+
+NAC - National Accuracy Clearinghouse
+
+10/25/23
+
+300
+
+Nonfinancial Requirements
+
+301-1
+
+Citizenship
+
+07/20/22
+
+301-2
+
+Eligible Alien Status
+
+12/10/25
+
+301-3
+
+Sponsored Aliens
+
+03/06/24
+
+303-1
+
+Social Security Number
+
+07/20/22
+
+304-1
+
+Categorical and Expanded Categorical Eligibility
+
+10/01/24
+
+400
+
+Resources
+
+400
+
+Resource Overview
+
+10/01/24
+
+401-1
+
+Ownership/Accessibility/Equity
+
+04/18/23
+
+402-1
+
+Countable and Excluded Resources
+
+11/22/22
+
+402-2
+
+Native American Resources
+
+08/01/22
+
+402-3
+
+Trust Funds
+
+11/01/19
+
+403-1
+
+Resources-Vehicles
+
+10/01/22
+
+404-1
+
+Transfer of Resources Disqualification
+
+08/01/22
+
+500
+
+Income
+
+500
+
+Income Overview
+
+07/01/17
+
+501-1
+
+Unearned Income
+
+12/26/24
+
+501-2
+
+Native American Income
+
+10/09/24
+
+502-1
+
+Earned Income
+
+05/19/22
+
+503-1
+
+Self-Employment Income
+
+10/01/24
+
+600
+
+Eligibility and Benefit Determination
+
+601-1
+
+Prospective Budgeting
+
+10/01/22
+
+602-2
+
+Deductions (Earned, Standard, Dependent Care and Child Support)
+
+10/01/25
+
+602-3
+
+Deductions (Medical)
+
+08/10/22
+
+602-4
+
+Shelter Deductions
+
+10/01/25
+
+602-5
+
+Non-compliance Adjustment
+
+08/10/22
+
+700
+
+Work Registration
+
+700
+
+Work Registration Overview
+
+06/01/25
+
+701-1
+
+Work Registration Exemptions
+
+10/01/25
+
+702-2
+
+SNAP Employment and Training Referrals
+
+06/01/25
+
+702-3
+
+SNAP E&T Provider Determinations
+
+10/16/24
+
+703-1
+
+Good Cause and Unsuitable Employment
+
+02/13/17
+
+705-1
+
+Work Registration Disqualification
+
+10/01/24
+
+800
+
+Able-Bodies Adults Without Dependents (ABAWD)
+
+800
+
+ABAWD Overview
+
+10/01/25
+
+801-1
+
+Time Clock Exemptions
+
+10/01/25
+
+802-1
+
+Geographic Waiver
+
+11/01/25
+
+803-1
+
+Disqualification/Regaining Eligibility
+
+10/01/25
+
+900
+
+ISSUANCE
+
+900
+
+Issuance Overview
+
+10/25/22
+
+901-1
+
+Replacement Conditions
+
+10/25/22
+
+902-1
+
+Montana Access Card Returned/Re-mailed
+
+10/25/22
+
+903-1
+
+Montana Access Card Replacements
+
+10/25/22
+
+905-1
+
+Montana Access EBT Expungements
+
+10/01/25
+
+1500
+
+Case Management
+
+1500
+
+Case Management Overview
+
+01/12/23
+
+1501-1
+
+Reporting Requirements
+
+10/23/24
+
+1501-2
+
+Mass Change
+
+01/12/23
+
+1501-5
+
+Adding/Removing Household Member
+
+06/15/23
+
+1502-1
+
+Recertification
+
+02/19/25
+
+1503-1
+
+Notice of Adverse Action
+
+01/12/23
+
+1504-1
+
+Over Issuance
+
+03/10/23
+
+1504-2
+
+Under Issuance
+
+08/31/23
+
+1504-3
+
+Cash Management
+
+04/01/10
+
+1505-1
+
+Intentional Program Violation
+
+08/01/22
+
+1506-1
+
+Requesting a Administrative Hearing/Continuation of Benefits
+
+08/22/22
+
+1506-2
+
+Administrative Review
+
+04/13/23
+
+1506-3
+
+Administrative Hearing Procedure
+
+04/13/23
+
+1506-4
+
+Board of Public Assistance Appeal and Judicial Review
+
+04/13/23
+
+1507-1
+
+Case Notes
+
+04/13/23
+
+1508-2
+
+Program Compliance Bureau-Quality Control Reviews
+
+04/06/23
+
+1510-1
+
+Case File Retention/Archive/ Destruction
+
+01/12/23
+
+1700
+
+Directories
+
+1701-1
+
+Tribal and Indian Agency Offices
+
+01/25/24
+
+1702-1
+
+SNAP E&T Operators
+
+06/01/25
+
+Collapse Menu
+
+Contact Us
+
+Human and Community Services Division
+
+2021 N Montana Ave. PO Box 202925 Helena, MT. 59620
+
+(406) 444-1788
+
+Additional Information
+
+Programs and Services
+
+Intergovernmental Human Services Bureau (IHSB)
+
+Commodity Supplemental Food Program
+
+The Emergency Food Assistance Program
+
+Community Services Block Grant Program
+
+Emergency Solutions Grant Program
+
+Low Income Home Energy Assistance Program (LIHEAP)
+
+Weatherization Assistance Program
+
+IHSB Policy Manuals
+
+Commodity Supplemental Food Program Policy Manual
+
+Community Services Block Grant Policy Manual
+
+Emergency Solutions Grant Policy Manual
+
+LIHEAP Policy Manual
+
+Weatherization Policy Manual
+
+Public Assistance
+
+Healthy Montana Kids (HMK)
+
+Montana Medicaid
+
+Medicaid Client Information
+
+Medicaid Provider Information
+
+Supplemental Nutrition Assistance Program (SNAP)
+
+Temporary Assistance for Needy Families (TANF)
+
+TANF State Plan 1/2024-12/2026
+
+SNAP or TANF Overpayments
+
+Public Assistance Policy Manuals
+
+Combined Medicaid Assistance (CMA) Policy Manual
+
+SNAP Policy Manual
+
+TANF Policy Manual
+
+Related Links
+
+Report Fraud SNAP, Medicaid, or TANF
+
+Board of Public Assistance

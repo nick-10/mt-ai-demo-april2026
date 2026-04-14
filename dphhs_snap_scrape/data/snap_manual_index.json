@@ -1,0 +1,702 @@
+{
+  "id": "snap_manual_index",
+  "structData": {
+    "title": "SNAP Policy Manual",
+    "url": "https://dphhs.mt.gov/HCSD/snapmanual",
+    "source": "Montana Department of Public Health and Human Services",
+    "category": "SNAP Benefits",
+    "scraped_at": "2026-04-12T22:40:43.289494+00:00",
+    "pdf_manual_links": [
+      {
+        "text": "Qualified Sign Language Interpreters",
+        "url": "https://dphhs.mt.gov/assets/detd/QualifiedSignLanguageInterpreterList.pdf"
+      },
+      {
+        "text": "0-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAPTOC.pdf"
+      },
+      {
+        "text": "Table of Contents",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAPTOC.pdf"
+      },
+      {
+        "text": "0-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP02.pdf"
+      },
+      {
+        "text": "Alpha Subject Index",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP02.pdf"
+      },
+      {
+        "text": "0-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP-03.pdf"
+      },
+      {
+        "text": "Introduction",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP-03.pdf"
+      },
+      {
+        "text": "0-4",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP04.pdf"
+      },
+      {
+        "text": "Glossary",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP04.pdf"
+      },
+      {
+        "text": "001",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP001.pdf"
+      },
+      {
+        "text": "Table of Standards: GMI & NMI Thrifty Food Plan",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP001.pdf"
+      },
+      {
+        "text": "101-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP101-1.pdf"
+      },
+      {
+        "text": "Confidentiality",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP101-1.pdf"
+      },
+      {
+        "text": "102-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP102-1.pdf"
+      },
+      {
+        "text": "Civil Rights",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP102-1.pdf"
+      },
+      {
+        "text": "102-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP102.2.pdf"
+      },
+      {
+        "text": "General Complaints",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP102.2.pdf"
+      },
+      {
+        "text": "103-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.1.pdf"
+      },
+      {
+        "text": "Application Filing/Interview Process",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.1.pdf"
+      },
+      {
+        "text": "103-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.3.pdf"
+      },
+      {
+        "text": "Household Rights and Responsibilities",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.3.pdf"
+      },
+      {
+        "text": "103-5",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.5.pdf"
+      },
+      {
+        "text": "Verifications",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.5.pdf"
+      },
+      {
+        "text": "103-6",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.6.pdf"
+      },
+      {
+        "text": "Voter Registration",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.6.pdf"
+      },
+      {
+        "text": "103-7",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.7.pdf"
+      },
+      {
+        "text": "Authorized Representative",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP103.7.pdf"
+      },
+      {
+        "text": "104-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP104-1.pdf"
+      },
+      {
+        "text": "Application Approval or Denial",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP104-1.pdf"
+      },
+      {
+        "text": "104-4",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP104-4.pdf"
+      },
+      {
+        "text": "Re-application/Revert to Open",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP104-4.pdf"
+      },
+      {
+        "text": "105-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP105-1.pdf"
+      },
+      {
+        "text": "Expedited Services",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP105-1.pdf"
+      },
+      {
+        "text": "105-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP105-2.pdf"
+      },
+      {
+        "text": "Destitute Migrant and Seasonal Farm Workers",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP105-2.pdf"
+      },
+      {
+        "text": "201-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201.1.pdf"
+      },
+      {
+        "text": "Household Composition",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201.1.pdf"
+      },
+      {
+        "text": "201-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-2.pdf"
+      },
+      {
+        "text": "Parental Control",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-2.pdf"
+      },
+      {
+        "text": "201-4",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-4.pdf"
+      },
+      {
+        "text": "Boarders",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-4.pdf"
+      },
+      {
+        "text": "201-5",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201.5.pdf"
+      },
+      {
+        "text": "Students",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201.5.pdf"
+      },
+      {
+        "text": "201-6",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-6.pdf"
+      },
+      {
+        "text": "Group Homes",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-6.pdf"
+      },
+      {
+        "text": "201-7",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-7.pdf"
+      },
+      {
+        "text": "Residents-Drug/Alcohol Treatment/Rehabilitation Programs",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-7.pdf"
+      },
+      {
+        "text": "201-8",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-8.pdf"
+      },
+      {
+        "text": "Shelters for Battered Adults and Children",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-8.pdf"
+      },
+      {
+        "text": "201-9",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201.9.pdf"
+      },
+      {
+        "text": "Dual Participation -Commodities/Food Stamp Program",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201.9.pdf"
+      },
+      {
+        "text": "NAC - National Accuracy Clearinghouse",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP201-10.pdf"
+      },
+      {
+        "text": "301-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP301-1.pdf"
+      },
+      {
+        "text": "Citizenship",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP301-1.pdf"
+      },
+      {
+        "text": "301-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP301.2.pdf"
+      },
+      {
+        "text": "Eligible Alien Status",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP301.2.pdf"
+      },
+      {
+        "text": "301-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP301.3.pdf"
+      },
+      {
+        "text": "Sponsored Aliens",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP301.3.pdf"
+      },
+      {
+        "text": "303-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP303-1.pdf"
+      },
+      {
+        "text": "Social Security Number",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP303-1.pdf"
+      },
+      {
+        "text": "304-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP304.1.pdf"
+      },
+      {
+        "text": "Categorical and Expanded Categorical Eligibility",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP304.1.pdf"
+      },
+      {
+        "text": "400",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP400.pdf"
+      },
+      {
+        "text": "Resource Overview",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP400.pdf"
+      },
+      {
+        "text": "401-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP401-1.pdf"
+      },
+      {
+        "text": "Ownership/Accessibility/Equity",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP401-1.pdf"
+      },
+      {
+        "text": "402-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP402-1.pdf"
+      },
+      {
+        "text": "Countable and Excluded Resources",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP402-1.pdf"
+      },
+      {
+        "text": "402-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP402.2.pdf"
+      },
+      {
+        "text": "Native American Resources",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP402.2.pdf"
+      },
+      {
+        "text": "402-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP402-3.pdf"
+      },
+      {
+        "text": "Trust Funds",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP402-3.pdf"
+      },
+      {
+        "text": "403-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP403.1.pdf"
+      },
+      {
+        "text": "Resources-Vehicles",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP403.1.pdf"
+      },
+      {
+        "text": "404-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP404-1.pdf"
+      },
+      {
+        "text": "Transfer of Resources Disqualification",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP404-1.pdf"
+      },
+      {
+        "text": "500",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP500.pdf"
+      },
+      {
+        "text": "Income Overview",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP500.pdf"
+      },
+      {
+        "text": "501-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP501.1.pdf"
+      },
+      {
+        "text": "Unearned Income",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP501.1.pdf"
+      },
+      {
+        "text": "501-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP501.2.pdf"
+      },
+      {
+        "text": "Native American Income",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP501.2.pdf"
+      },
+      {
+        "text": "502-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP502-1.pdf"
+      },
+      {
+        "text": "Earned Income",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP502-1.pdf"
+      },
+      {
+        "text": "503-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP503.1.pdf"
+      },
+      {
+        "text": "Self-Employment Income",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP503.1.pdf"
+      },
+      {
+        "text": "601-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP601-1.pdf"
+      },
+      {
+        "text": "Prospective Budgeting",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP601-1.pdf"
+      },
+      {
+        "text": "602-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602.2.pdf"
+      },
+      {
+        "text": "Deductions (Earned, Standard, Dependent Care and Child Support)",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602.2.pdf"
+      },
+      {
+        "text": "602-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602-3.pdf"
+      },
+      {
+        "text": "Deductions (Medical)",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602-3.pdf"
+      },
+      {
+        "text": "602-4",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602.4.pdf"
+      },
+      {
+        "text": "Shelter Deductions",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602.4.pdf"
+      },
+      {
+        "text": "602-5",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602.5.pdf"
+      },
+      {
+        "text": "Non-compliance Adjustment",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP602.5.pdf"
+      },
+      {
+        "text": "700",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP700.pdf"
+      },
+      {
+        "text": "Work Registration Overview",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP700.pdf"
+      },
+      {
+        "text": "701-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP701.1.pdf"
+      },
+      {
+        "text": "Work Registration Exemptions",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP701.1.pdf"
+      },
+      {
+        "text": "702-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP702.2.pdf"
+      },
+      {
+        "text": "SNAP Employment and Training Referrals",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP702.2.pdf"
+      },
+      {
+        "text": "702-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP702.3.pdf"
+      },
+      {
+        "text": "SNAP E&T Provider Determinations",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP702.3.pdf"
+      },
+      {
+        "text": "703-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP703-1.pdf"
+      },
+      {
+        "text": "Good Cause and Unsuitable Employment",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP703-1.pdf"
+      },
+      {
+        "text": "705-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP705.1.pdf"
+      },
+      {
+        "text": "Work Registration Disqualification",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP705.1.pdf"
+      },
+      {
+        "text": "800",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP800.pdf"
+      },
+      {
+        "text": "ABAWD Overview",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP800.pdf"
+      },
+      {
+        "text": "801-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP801.1.pdf"
+      },
+      {
+        "text": "Time Clock Exemptions",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP801.1.pdf"
+      },
+      {
+        "text": "802-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP802.1.pdf"
+      },
+      {
+        "text": "Geographic Waiver",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP802.1.pdf"
+      },
+      {
+        "text": "803-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP803.1.pdf"
+      },
+      {
+        "text": "Disqualification/Regaining Eligibility",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP803.1.pdf"
+      },
+      {
+        "text": "900",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP900.pdf"
+      },
+      {
+        "text": "Issuance Overview",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP900.pdf"
+      },
+      {
+        "text": "901-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP901-1.pdf"
+      },
+      {
+        "text": "Replacement Conditions",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP901-1.pdf"
+      },
+      {
+        "text": "902-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP902-1.pdf"
+      },
+      {
+        "text": "Montana Access Card Returned/Re-mailed",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP902-1.pdf"
+      },
+      {
+        "text": "903-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP903-1.pdf"
+      },
+      {
+        "text": "Montana Access Card Replacements",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP903-1.pdf"
+      },
+      {
+        "text": "905-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP905.1.pdf"
+      },
+      {
+        "text": "Montana Access EBT Expungements",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP905.1.pdf"
+      },
+      {
+        "text": "1500",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1500.pdf"
+      },
+      {
+        "text": "Case Management Overview",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1500.pdf"
+      },
+      {
+        "text": "1501-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1501.1.pdf"
+      },
+      {
+        "text": "Reporting Requirements",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1501.1.pdf"
+      },
+      {
+        "text": "1501-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1501-2.pdf"
+      },
+      {
+        "text": "Mass Change",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1501-2.pdf"
+      },
+      {
+        "text": "1501-5",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1501-5.pdf"
+      },
+      {
+        "text": "Adding/Removing Household Member",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1501-5.pdf"
+      },
+      {
+        "text": "1502-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1502.1.pdf"
+      },
+      {
+        "text": "Recertification",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1502.1.pdf"
+      },
+      {
+        "text": "1503-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1503-1.pdf"
+      },
+      {
+        "text": "Notice of Adverse Action",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1503-1.pdf"
+      },
+      {
+        "text": "1504-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1504.1.pdf"
+      },
+      {
+        "text": "Over Issuance",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1504.1.pdf"
+      },
+      {
+        "text": "1504-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1504-2.pdf"
+      },
+      {
+        "text": "Under Issuance",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1504-2.pdf"
+      },
+      {
+        "text": "1504-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1504-3.pdf"
+      },
+      {
+        "text": "Cash Management",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1504-3.pdf"
+      },
+      {
+        "text": "1505-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1505-1.pdf"
+      },
+      {
+        "text": "Intentional Program Violation",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1505-1.pdf"
+      },
+      {
+        "text": "1506-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-1.pdf"
+      },
+      {
+        "text": "Requesting a Administrative Hearing/Continuation of Benefits",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-1.pdf"
+      },
+      {
+        "text": "1506-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-2.pdf"
+      },
+      {
+        "text": "Administrative Review",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-2.pdf"
+      },
+      {
+        "text": "1506-3",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-3.pdf"
+      },
+      {
+        "text": "Administrative Hearing Procedure",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-3.pdf"
+      },
+      {
+        "text": "1506-4",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-4.pdf"
+      },
+      {
+        "text": "Board of Public Assistance Appeal and Judicial Review",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1506-4.pdf"
+      },
+      {
+        "text": "1507-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1507-1.pdf"
+      },
+      {
+        "text": "Case Notes",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1507-1.pdf"
+      },
+      {
+        "text": "1508-2",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1508-2.pdf"
+      },
+      {
+        "text": "Program Compliance Bureau-Quality Control Reviews",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1508-2.pdf"
+      },
+      {
+        "text": "1510-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1510-1.pdf"
+      },
+      {
+        "text": "Case File Retention/Archive/ Destruction",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1510-1.pdf"
+      },
+      {
+        "text": "1701-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1701-1.pdf"
+      },
+      {
+        "text": "Tribal and Indian Agency Offices",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1701-1.pdf"
+      },
+      {
+        "text": "1702-1",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1702.1.pdf"
+      },
+      {
+        "text": "SNAP E&T Operators",
+        "url": "https://dphhs.mt.gov/assets/hcsd/snapmanual/SNAP1702.1.pdf"
+      },
+      {
+        "text": "Commodity Supplemental Food Program Policy Manual",
+        "url": "https://dphhs.mt.gov/assets/hcsd/CSFP/CommoditySupplementalFoodProgramPolicyManual.pdf"
+      },
+      {
+        "text": "Community Services Block Grant Policy Manual",
+        "url": "https://dphhs.mt.gov/assets/hcsd/csbgmanual/CSBGProgramPoliciesandProcedures.pdf"
+      },
+      {
+        "text": "Emergency Solutions Grant Policy Manual",
+        "url": "https://dphhs.mt.gov/assets/hcsd/esgpolicymanual.pdf"
+      },
+      {
+        "text": "LIHEAP Policy Manual",
+        "url": "https://dphhs.mt.gov/assets/hcsd/liheap/LIHEAPmanual.pdf"
+      },
+      {
+        "text": "Weatherization Policy Manual",
+        "url": "https://dphhs.mt.gov/assets/hcsd/liheap/WeatherizationManual.pdf"
+      },
+      {
+        "text": "TANF State Plan 1/2024-12/2026",
+        "url": "https://dphhs.mt.gov/assets/hcsd/TANF/TANFStatePlan.pdf"
+      },
+      {
+        "text": "PRIVACY & SECURITY",
+        "url": "https://mt.gov/1240-X06.pdf"
+      }
+    ],
+    "pdf_count": 171
+  },
+  "content": {
+    "mimeType": "text/plain",
+    "uri": "https://dphhs.mt.gov/HCSD/snapmanual"
+  },
+  "text_content": "Supplemental Nutrition Assistance Program (SNAP) Policy Manual\n\nPrinting the manual material found at this website for long-term use is not advisable. Department Policy material is updated periodically and it is the responsibility of the users to check and make sure that the policy they are researching or applying has the correct effective date for their circumstances.\n\nState Website Disclaimer\n.\n\nIf you experience any difficulty opening a policy from this page,\nplease email\n\nHHS Technology Services Center\n.\n\nTABLE OF CONTENTS\n\nSECTION NUMBER\n\nSUBSECTION # - TITLE/ CONTENT\n\nDATE\nISSUED/REVISED\n\n0-1\n\nTable of Contents\n\n04/01/2026\n\n0-2\n\nAlpha Subject Index\n\n05/15/25\n\n0-3\n\nIntroduction\n\n07/14/22\n\n0-4\n\nGlossary\n\n05/13/25\n\n001\n\nTable of Standards: GMI & NMI Thrifty Food Plan\n\n10/01/25\n\n100\n\nApplication Processing\n\n101-1\n\nConfidentiality\n\n12/15/23\n\n102-1\n\nCivil Rights\n\n03/07/23\n\n102-2\n\nGeneral Complaints\n\n03/06/24\n\n103-1\n\nApplication Filing/Interview Process\n\n02/19/25\n\n103-3\n\nHousehold Rights and Responsibilities\n\n05/29/24\n\n103-5\n\nVerifications\n\n06/15/23\n\n103-6\n\nVoter Registration\n\n05/06/24\n\n103-7\n\nAuthorized Representative\n\n05/24/24\n\n104-1\n\nApplication Approval or Denial\n\n08/24/23\n\n104-4\n\nRe-application/Revert to Open\n\n07/20/22\n\n105-1\n\nExpedited Services\n\n06/06/23\n\n105-2\n\nDestitute Migrant and Seasonal Farm Workers\n\n07/20/22\n\n200\n\nHousehold Composition\n\n201-1\n\nHousehold Composition\n\n05/08/21\n\n201-2\n\nParental Control\n\n04/01/10\n\n201-4\n\nBoarders\n\n07/20/22\n\n201-5\n\nStudents\n\n07/20/22\n\n201-6\n\nGroup Homes\n\n07/20/22\n\n201-7\n\nResidents-Drug/Alcohol Treatment/Rehabilitation Programs\n\n07/21/23\n\n201-8\n\nShelters for Battered Adults and Children\n\n07/20/22\n\n201-9\n\nDual Participation -Commodities/Food Stamp Program\n\n05/23/25\n\n201-10\n\nNAC - National Accuracy Clearinghouse\n\n10/25/23\n\n300\n\nNonfinancial Requirements\n\n301-1\n\nCitizenship\n\n07/20/22\n\n301-2\n\nEligible Alien Status\n\n12/10/25\n\n301-3\n\nSponsored Aliens\n\n03/06/24\n\n303-1\n\nSocial Security Number\n\n07/20/22\n\n304-1\n\nCategorical and Expanded Categorical Eligibility\n\n10/01/24\n\n400\n\nResources\n\n400\n\nResource Overview\n\n10/01/24\n\n401-1\n\nOwnership/Accessibility/Equity\n\n04/18/23\n\n402-1\n\nCountable and Excluded Resources\n\n11/22/22\n\n402-2\n\nNative American Resources\n\n08/01/22\n\n402-3\n\nTrust Funds\n\n11/01/19\n\n403-1\n\nResources-Vehicles\n\n10/01/22\n\n404-1\n\nTransfer of Resources Disqualification\n\n08/01/22\n\n500\n\nIncome\n\n500\n\nIncome Overview\n\n07/01/17\n\n501-1\n\nUnearned Income\n\n12/26/24\n\n501-2\n\nNative American Income\n\n10/09/24\n\n502-1\n\nEarned Income\n\n05/19/22\n\n503-1\n\nSelf-Employment Income\n\n10/01/24\n\n600\n\nEligibility and Benefit Determination\n\n601-1\n\nProspective Budgeting\n\n10/01/22\n\n602-2\n\nDeductions (Earned, Standard, Dependent Care and Child Support)\n\n10/01/25\n\n602-3\n\nDeductions (Medical)\n\n08/10/22\n\n602-4\n\nShelter Deductions\n\n10/01/25\n\n602-5\n\nNon-compliance Adjustment\n\n08/10/22\n\n700\n\nWork Registration\n\n700\n\nWork Registration Overview\n\n06/01/25\n\n701-1\n\nWork Registration Exemptions\n\n10/01/25\n\n702-2\n\nSNAP Employment and Training Referrals\n\n06/01/25\n\n702-3\n\nSNAP E&T Provider Determinations\n\n10/16/24\n\n703-1\n\nGood Cause and Unsuitable Employment\n\n02/13/17\n\n705-1\n\nWork Registration Disqualification\n\n10/01/24\n\n800\n\nAble-Bodies Adults Without Dependents (ABAWD)\n\n800\n\nABAWD Overview\n\n10/01/25\n\n801-1\n\nTime Clock Exemptions\n\n10/01/25\n\n802-1\n\nGeographic Waiver\n\n11/01/25\n\n803-1\n\nDisqualification/Regaining Eligibility\n\n10/01/25\n\n900\n\nISSUANCE\n\n900\n\nIssuance Overview\n\n10/25/22\n\n901-1\n\nReplacement Conditions\n\n10/25/22\n\n902-1\n\nMontana Access Card Returned/Re-mailed\n\n10/25/22\n\n903-1\n\nMontana Access Card Replacements\n\n10/25/22\n\n905-1\n\nMontana Access EBT Expungements\n\n10/01/25\n\n1500\n\nCase Management\n\n1500\n\nCase Management Overview\n\n01/12/23\n\n1501-1\n\nReporting Requirements\n\n10/23/24\n\n1501-2\n\nMass Change\n\n01/12/23\n\n1501-5\n\nAdding/Removing Household Member\n\n06/15/23\n\n1502-1\n\nRecertification\n\n02/19/25\n\n1503-1\n\nNotice of Adverse Action\n\n01/12/23\n\n1504-1\n\nOver Issuance\n\n03/10/23\n\n1504-2\n\nUnder Issuance\n\n08/31/23\n\n1504-3\n\nCash Management\n\n04/01/10\n\n1505-1\n\nIntentional Program Violation\n\n08/01/22\n\n1506-1\n\nRequesting a Administrative Hearing/Continuation of Benefits\n\n08/22/22\n\n1506-2\n\nAdministrative Review\n\n04/13/23\n\n1506-3\n\nAdministrative Hearing Procedure\n\n04/13/23\n\n1506-4\n\nBoard of Public Assistance Appeal and Judicial Review\n\n04/13/23\n\n1507-1\n\nCase Notes\n\n04/13/23\n\n1508-2\n\nProgram Compliance Bureau-Quality Control Reviews\n\n04/06/23\n\n1510-1\n\nCase File Retention/Archive/ Destruction\n\n01/12/23\n\n1700\n\nDirectories\n\n1701-1\n\nTribal and Indian Agency Offices\n\n01/25/24\n\n1702-1\n\nSNAP E&T Operators\n\n06/01/25\n\nCollapse Menu\n\nContact Us\n\nHuman and Community Services Division\n\n2021 N Montana Ave. PO Box 202925 Helena, MT. 59620\n\n(406) 444-1788\n\nAdditional Information\n\nPrograms and Services\n\nIntergovernmental Human Services Bureau (IHSB)\n\nCommodity Supplemental Food Program\n\nThe Emergency Food Assistance Program\n\nCommunity Services Block Grant Program\n\nEmergency Solutions Grant Program\n\nLow Income Home Energy Assistance Program (LIHEAP)\n\nWeatherization Assistance Program\n\nIHSB Policy Manuals\n\nCommodity Supplemental Food Program Policy Manual\n\nCommunity Services Block Grant Policy Manual\n\nEmergency Solutions Grant Policy Manual\n\nLIHEAP Policy Manual\n\nWeatherization Policy Manual\n\nPublic Assistance\n\nHealthy Montana Kids (HMK)\n\nMontana Medicaid\n\nMedicaid Client Information\n\nMedicaid Provider Information\n\nSupplemental Nutrition Assistance Program (SNAP)\n\nTemporary Assistance for Needy Families (TANF)\n\nTANF State Plan 1/2024-12/2026\n\nSNAP or TANF Overpayments\n\nPublic Assistance Policy Manuals\n\nCombined Medicaid Assistance (CMA) Policy Manual\n\nSNAP Policy Manual\n\nTANF Policy Manual\n\nRelated Links\n\nReport Fraud SNAP, Medicaid, or TANF\n\nBoard of Public Assistance"
+}
